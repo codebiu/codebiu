@@ -1,3 +1,15 @@
 [submodule "ui"]
 	path = ui
 	url = https://github.com/codebiu/ui.git
+[submodule "server"]
+	path = server
+	url = https://github.com/codebiu/server.git
+[submodule "pc"]
+	path = pc
+	url = https://github.com/codebiu/pc.git
+[submodule "doc"]
+	path = doc
+	url = https://github.com/codebiu/doc.git
+[submodule "mcu"]
+	path = mcu
+	url = https://github.com/codebiu/mcu.git
